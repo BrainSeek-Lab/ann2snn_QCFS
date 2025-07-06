@@ -1,0 +1,902 @@
+[2025-06-25 13:09:42,497][main_train.py][line:54][INFO] start training!
+[2025-06-25 13:10:16,166][main_train.py][line:64][INFO] Epoch:[0/300]  task_loss=4.51698  qcfs_loss=0.081362  acc=2.098
+[2025-06-25 13:10:18,053][main_train.py][line:73][INFO] Epoch:[0/300]  Test acc=4.320
+
+[2025-06-25 13:10:51,480][main_train.py][line:64][INFO] Epoch:[1/300]  task_loss=4.29346  qcfs_loss=0.067062  acc=4.578
+[2025-06-25 13:10:53,161][main_train.py][line:73][INFO] Epoch:[1/300]  Test acc=7.180
+
+[2025-06-25 13:11:24,741][main_train.py][line:64][INFO] Epoch:[2/300]  task_loss=4.11512  qcfs_loss=0.055343  acc=6.740
+[2025-06-25 13:11:26,641][main_train.py][line:73][INFO] Epoch:[2/300]  Test acc=9.160
+
+[2025-06-25 13:12:00,312][main_train.py][line:64][INFO] Epoch:[3/300]  task_loss=3.98227  qcfs_loss=0.045563  acc=8.412
+[2025-06-25 13:12:02,276][main_train.py][line:73][INFO] Epoch:[3/300]  Test acc=12.870
+
+[2025-06-25 13:12:35,950][main_train.py][line:64][INFO] Epoch:[4/300]  task_loss=3.82711  qcfs_loss=0.037358  acc=10.592
+[2025-06-25 13:12:37,860][main_train.py][line:73][INFO] Epoch:[4/300]  Test acc=15.520
+
+[2025-06-25 13:13:11,451][main_train.py][line:64][INFO] Epoch:[5/300]  task_loss=3.68412  qcfs_loss=0.030478  acc=12.998
+[2025-06-25 13:13:13,383][main_train.py][line:73][INFO] Epoch:[5/300]  Test acc=18.340
+
+[2025-06-25 13:13:46,143][main_train.py][line:64][INFO] Epoch:[6/300]  task_loss=3.51070  qcfs_loss=0.023893  acc=15.612
+[2025-06-25 13:13:48,060][main_train.py][line:73][INFO] Epoch:[6/300]  Test acc=19.800
+
+[2025-06-25 13:14:21,200][main_train.py][line:64][INFO] Epoch:[7/300]  task_loss=3.36312  qcfs_loss=0.017803  acc=17.960
+[2025-06-25 13:14:23,102][main_train.py][line:73][INFO] Epoch:[7/300]  Test acc=25.160
+
+[2025-06-25 13:14:56,884][main_train.py][line:64][INFO] Epoch:[8/300]  task_loss=3.22028  qcfs_loss=0.012290  acc=20.442
+[2025-06-25 13:14:58,793][main_train.py][line:73][INFO] Epoch:[8/300]  Test acc=26.030
+
+[2025-06-25 13:15:32,511][main_train.py][line:64][INFO] Epoch:[9/300]  task_loss=3.08689  qcfs_loss=0.007135  acc=23.108
+[2025-06-25 13:15:34,432][main_train.py][line:73][INFO] Epoch:[9/300]  Test acc=24.910
+
+[2025-06-25 13:16:06,653][main_train.py][line:64][INFO] Epoch:[10/300]  task_loss=2.98714  qcfs_loss=0.003411  acc=25.174
+[2025-06-25 13:16:08,546][main_train.py][line:73][INFO] Epoch:[10/300]  Test acc=31.940
+
+[2025-06-25 13:16:42,293][main_train.py][line:64][INFO] Epoch:[11/300]  task_loss=2.87887  qcfs_loss=0.001898  acc=27.042
+[2025-06-25 13:16:44,173][main_train.py][line:73][INFO] Epoch:[11/300]  Test acc=34.320
+
+[2025-06-25 13:17:17,949][main_train.py][line:64][INFO] Epoch:[12/300]  task_loss=2.78927  qcfs_loss=0.001351  acc=28.974
+[2025-06-25 13:17:19,848][main_train.py][line:73][INFO] Epoch:[12/300]  Test acc=36.690
+
+[2025-06-25 13:17:53,043][main_train.py][line:64][INFO] Epoch:[13/300]  task_loss=2.71908  qcfs_loss=0.001053  acc=30.664
+[2025-06-25 13:17:54,949][main_train.py][line:73][INFO] Epoch:[13/300]  Test acc=38.530
+
+[2025-06-25 13:18:27,612][main_train.py][line:64][INFO] Epoch:[14/300]  task_loss=2.65162  qcfs_loss=0.000872  acc=31.908
+[2025-06-25 13:18:28,584][main_train.py][line:73][INFO] Epoch:[14/300]  Test acc=37.740
+
+[2025-06-25 13:19:02,022][main_train.py][line:64][INFO] Epoch:[15/300]  task_loss=2.59583  qcfs_loss=0.000673  acc=33.192
+[2025-06-25 13:19:03,919][main_train.py][line:73][INFO] Epoch:[15/300]  Test acc=43.990
+
+[2025-06-25 13:19:37,563][main_train.py][line:64][INFO] Epoch:[16/300]  task_loss=2.53752  qcfs_loss=0.000598  acc=34.408
+[2025-06-25 13:19:39,423][main_train.py][line:73][INFO] Epoch:[16/300]  Test acc=41.290
+
+[2025-06-25 13:20:12,053][main_train.py][line:64][INFO] Epoch:[17/300]  task_loss=2.47853  qcfs_loss=0.000530  acc=35.648
+[2025-06-25 13:20:13,964][main_train.py][line:73][INFO] Epoch:[17/300]  Test acc=43.990
+
+[2025-06-25 13:20:46,847][main_train.py][line:64][INFO] Epoch:[18/300]  task_loss=2.43027  qcfs_loss=0.000508  acc=36.904
+[2025-06-25 13:20:48,360][main_train.py][line:73][INFO] Epoch:[18/300]  Test acc=42.040
+
+[2025-06-25 13:21:20,236][main_train.py][line:64][INFO] Epoch:[19/300]  task_loss=2.38971  qcfs_loss=0.000445  acc=37.868
+[2025-06-25 13:21:22,117][main_train.py][line:73][INFO] Epoch:[19/300]  Test acc=43.580
+
+[2025-06-25 13:21:55,510][main_train.py][line:64][INFO] Epoch:[20/300]  task_loss=2.35882  qcfs_loss=0.000422  acc=38.224
+[2025-06-25 13:21:57,416][main_train.py][line:73][INFO] Epoch:[20/300]  Test acc=46.250
+
+[2025-06-25 13:22:32,886][main_train.py][line:64][INFO] Epoch:[21/300]  task_loss=2.31167  qcfs_loss=0.000394  acc=39.826
+[2025-06-25 13:22:34,766][main_train.py][line:73][INFO] Epoch:[21/300]  Test acc=46.550
+
+[2025-06-25 13:23:07,963][main_train.py][line:64][INFO] Epoch:[22/300]  task_loss=2.27527  qcfs_loss=0.000372  acc=40.324
+[2025-06-25 13:23:09,842][main_train.py][line:73][INFO] Epoch:[22/300]  Test acc=48.760
+
+[2025-06-25 13:23:43,487][main_train.py][line:64][INFO] Epoch:[23/300]  task_loss=2.24476  qcfs_loss=0.000343  acc=41.010
+[2025-06-25 13:23:45,389][main_train.py][line:73][INFO] Epoch:[23/300]  Test acc=48.750
+
+[2025-06-25 13:24:18,743][main_train.py][line:64][INFO] Epoch:[24/300]  task_loss=2.21353  qcfs_loss=0.000374  acc=41.924
+[2025-06-25 13:24:20,629][main_train.py][line:73][INFO] Epoch:[24/300]  Test acc=49.320
+
+[2025-06-25 13:24:54,386][main_train.py][line:64][INFO] Epoch:[25/300]  task_loss=2.19044  qcfs_loss=0.000346  acc=42.598
+[2025-06-25 13:24:56,292][main_train.py][line:73][INFO] Epoch:[25/300]  Test acc=51.350
+
+[2025-06-25 13:25:29,504][main_train.py][line:64][INFO] Epoch:[26/300]  task_loss=2.15903  qcfs_loss=0.000373  acc=43.312
+[2025-06-25 13:25:31,201][main_train.py][line:73][INFO] Epoch:[26/300]  Test acc=47.130
+
+[2025-06-25 13:26:04,605][main_train.py][line:64][INFO] Epoch:[27/300]  task_loss=2.14950  qcfs_loss=0.000376  acc=43.344
+[2025-06-25 13:26:06,504][main_train.py][line:73][INFO] Epoch:[27/300]  Test acc=48.550
+
+[2025-06-25 13:26:39,808][main_train.py][line:64][INFO] Epoch:[28/300]  task_loss=2.12804  qcfs_loss=0.000364  acc=43.912
+[2025-06-25 13:26:41,704][main_train.py][line:73][INFO] Epoch:[28/300]  Test acc=50.830
+
+[2025-06-25 13:27:14,514][main_train.py][line:64][INFO] Epoch:[29/300]  task_loss=2.09498  qcfs_loss=0.000348  acc=44.982
+[2025-06-25 13:27:16,419][main_train.py][line:73][INFO] Epoch:[29/300]  Test acc=51.960
+
+[2025-06-25 13:27:49,892][main_train.py][line:64][INFO] Epoch:[30/300]  task_loss=2.05879  qcfs_loss=0.000357  acc=45.722
+[2025-06-25 13:27:51,600][main_train.py][line:73][INFO] Epoch:[30/300]  Test acc=50.670
+
+[2025-06-25 13:28:23,921][main_train.py][line:64][INFO] Epoch:[31/300]  task_loss=2.05732  qcfs_loss=0.000347  acc=46.046
+[2025-06-25 13:28:25,812][main_train.py][line:73][INFO] Epoch:[31/300]  Test acc=53.120
+
+[2025-06-25 13:29:00,502][main_train.py][line:64][INFO] Epoch:[32/300]  task_loss=2.04356  qcfs_loss=0.000332  acc=46.028
+[2025-06-25 13:29:02,388][main_train.py][line:73][INFO] Epoch:[32/300]  Test acc=53.240
+
+[2025-06-25 13:29:36,434][main_train.py][line:64][INFO] Epoch:[33/300]  task_loss=2.01964  qcfs_loss=0.000360  acc=46.678
+[2025-06-25 13:29:38,331][main_train.py][line:73][INFO] Epoch:[33/300]  Test acc=55.470
+
+[2025-06-25 13:30:11,492][main_train.py][line:64][INFO] Epoch:[34/300]  task_loss=2.00309  qcfs_loss=0.000371  acc=47.134
+[2025-06-25 13:30:13,012][main_train.py][line:73][INFO] Epoch:[34/300]  Test acc=53.330
+
+[2025-06-25 13:30:46,198][main_train.py][line:64][INFO] Epoch:[35/300]  task_loss=1.97480  qcfs_loss=0.000346  acc=47.818
+[2025-06-25 13:30:48,096][main_train.py][line:73][INFO] Epoch:[35/300]  Test acc=55.460
+
+[2025-06-25 13:31:21,466][main_train.py][line:64][INFO] Epoch:[36/300]  task_loss=1.96790  qcfs_loss=0.000385  acc=47.952
+[2025-06-25 13:31:23,393][main_train.py][line:73][INFO] Epoch:[36/300]  Test acc=53.760
+
+[2025-06-25 13:31:56,750][main_train.py][line:64][INFO] Epoch:[37/300]  task_loss=1.95542  qcfs_loss=0.000404  acc=48.286
+[2025-06-25 13:31:58,671][main_train.py][line:73][INFO] Epoch:[37/300]  Test acc=53.640
+
+[2025-06-25 13:32:31,901][main_train.py][line:64][INFO] Epoch:[38/300]  task_loss=1.95017  qcfs_loss=0.000358  acc=48.612
+[2025-06-25 13:32:33,426][main_train.py][line:73][INFO] Epoch:[38/300]  Test acc=55.190
+
+[2025-06-25 13:33:05,404][main_train.py][line:64][INFO] Epoch:[39/300]  task_loss=1.93799  qcfs_loss=0.000367  acc=48.740
+[2025-06-25 13:33:07,312][main_train.py][line:73][INFO] Epoch:[39/300]  Test acc=55.660
+
+[2025-06-25 13:33:41,989][main_train.py][line:64][INFO] Epoch:[40/300]  task_loss=1.92194  qcfs_loss=0.000364  acc=49.298
+[2025-06-25 13:33:43,893][main_train.py][line:73][INFO] Epoch:[40/300]  Test acc=55.580
+
+[2025-06-25 13:34:17,326][main_train.py][line:64][INFO] Epoch:[41/300]  task_loss=1.90602  qcfs_loss=0.000361  acc=49.664
+[2025-06-25 13:34:19,220][main_train.py][line:73][INFO] Epoch:[41/300]  Test acc=53.450
+
+[2025-06-25 13:34:52,555][main_train.py][line:64][INFO] Epoch:[42/300]  task_loss=1.89989  qcfs_loss=0.000391  acc=49.796
+[2025-06-25 13:34:54,280][main_train.py][line:73][INFO] Epoch:[42/300]  Test acc=57.010
+
+[2025-06-25 13:35:29,192][main_train.py][line:64][INFO] Epoch:[43/300]  task_loss=1.86729  qcfs_loss=0.000360  acc=50.582
+[2025-06-25 13:35:31,110][main_train.py][line:73][INFO] Epoch:[43/300]  Test acc=55.680
+
+[2025-06-25 13:36:03,982][main_train.py][line:64][INFO] Epoch:[44/300]  task_loss=1.86371  qcfs_loss=0.000381  acc=50.788
+[2025-06-25 13:36:05,882][main_train.py][line:73][INFO] Epoch:[44/300]  Test acc=55.960
+
+[2025-06-25 13:36:39,105][main_train.py][line:64][INFO] Epoch:[45/300]  task_loss=1.84279  qcfs_loss=0.000396  acc=51.326
+[2025-06-25 13:36:41,007][main_train.py][line:73][INFO] Epoch:[45/300]  Test acc=58.170
+
+[2025-06-25 13:37:15,328][main_train.py][line:64][INFO] Epoch:[46/300]  task_loss=1.84559  qcfs_loss=0.000386  acc=51.354
+[2025-06-25 13:37:16,530][main_train.py][line:73][INFO] Epoch:[46/300]  Test acc=56.080
+
+[2025-06-25 13:37:48,472][main_train.py][line:64][INFO] Epoch:[47/300]  task_loss=1.83069  qcfs_loss=0.000366  acc=51.506
+[2025-06-25 13:37:50,358][main_train.py][line:73][INFO] Epoch:[47/300]  Test acc=56.650
+
+[2025-06-25 13:38:23,613][main_train.py][line:64][INFO] Epoch:[48/300]  task_loss=1.81926  qcfs_loss=0.000380  acc=51.772
+[2025-06-25 13:38:25,523][main_train.py][line:73][INFO] Epoch:[48/300]  Test acc=58.640
+
+[2025-06-25 13:39:00,196][main_train.py][line:64][INFO] Epoch:[49/300]  task_loss=1.81622  qcfs_loss=0.000354  acc=52.066
+[2025-06-25 13:39:02,087][main_train.py][line:73][INFO] Epoch:[49/300]  Test acc=56.270
+
+[2025-06-25 13:39:35,414][main_train.py][line:64][INFO] Epoch:[50/300]  task_loss=1.80470  qcfs_loss=0.000340  acc=52.012
+[2025-06-25 13:39:36,776][main_train.py][line:73][INFO] Epoch:[50/300]  Test acc=56.780
+
+[2025-06-25 13:40:09,191][main_train.py][line:64][INFO] Epoch:[51/300]  task_loss=1.80078  qcfs_loss=0.000406  acc=52.278
+[2025-06-25 13:40:11,076][main_train.py][line:73][INFO] Epoch:[51/300]  Test acc=59.300
+
+[2025-06-25 13:40:45,073][main_train.py][line:64][INFO] Epoch:[52/300]  task_loss=1.78679  qcfs_loss=0.000380  acc=52.570
+[2025-06-25 13:40:46,975][main_train.py][line:73][INFO] Epoch:[52/300]  Test acc=56.400
+
+[2025-06-25 13:41:19,766][main_train.py][line:64][INFO] Epoch:[53/300]  task_loss=1.78398  qcfs_loss=0.000377  acc=52.838
+[2025-06-25 13:41:21,672][main_train.py][line:73][INFO] Epoch:[53/300]  Test acc=56.750
+
+[2025-06-25 13:41:54,893][main_train.py][line:64][INFO] Epoch:[54/300]  task_loss=1.77525  qcfs_loss=0.000386  acc=53.010
+[2025-06-25 13:41:56,768][main_train.py][line:73][INFO] Epoch:[54/300]  Test acc=58.510
+
+[2025-06-25 13:42:28,858][main_train.py][line:64][INFO] Epoch:[55/300]  task_loss=1.75187  qcfs_loss=0.000391  acc=53.574
+[2025-06-25 13:42:29,840][main_train.py][line:73][INFO] Epoch:[55/300]  Test acc=56.810
+
+[2025-06-25 13:43:02,605][main_train.py][line:64][INFO] Epoch:[56/300]  task_loss=1.74591  qcfs_loss=0.000382  acc=53.784
+[2025-06-25 13:43:04,510][main_train.py][line:73][INFO] Epoch:[56/300]  Test acc=56.730
+
+[2025-06-25 13:43:37,687][main_train.py][line:64][INFO] Epoch:[57/300]  task_loss=1.74273  qcfs_loss=0.000375  acc=53.822
+[2025-06-25 13:43:39,585][main_train.py][line:73][INFO] Epoch:[57/300]  Test acc=57.830
+
+[2025-06-25 13:44:12,889][main_train.py][line:64][INFO] Epoch:[58/300]  task_loss=1.72648  qcfs_loss=0.000368  acc=54.184
+[2025-06-25 13:44:14,807][main_train.py][line:73][INFO] Epoch:[58/300]  Test acc=61.280
+
+[2025-06-25 13:44:48,650][main_train.py][line:64][INFO] Epoch:[59/300]  task_loss=1.73180  qcfs_loss=0.000376  acc=53.986
+[2025-06-25 13:44:49,860][main_train.py][line:73][INFO] Epoch:[59/300]  Test acc=58.650
+
+[2025-06-25 13:45:21,720][main_train.py][line:64][INFO] Epoch:[60/300]  task_loss=1.70799  qcfs_loss=0.000351  acc=54.664
+[2025-06-25 13:45:23,603][main_train.py][line:73][INFO] Epoch:[60/300]  Test acc=60.770
+
+[2025-06-25 13:45:56,452][main_train.py][line:64][INFO] Epoch:[61/300]  task_loss=1.69666  qcfs_loss=0.000361  acc=54.906
+[2025-06-25 13:45:58,348][main_train.py][line:73][INFO] Epoch:[61/300]  Test acc=60.080
+
+[2025-06-25 13:46:31,776][main_train.py][line:64][INFO] Epoch:[62/300]  task_loss=1.70202  qcfs_loss=0.000385  acc=54.572
+[2025-06-25 13:46:33,664][main_train.py][line:73][INFO] Epoch:[62/300]  Test acc=60.630
+
+[2025-06-25 13:47:06,975][main_train.py][line:64][INFO] Epoch:[63/300]  task_loss=1.69593  qcfs_loss=0.000367  acc=55.016
+[2025-06-25 13:47:08,872][main_train.py][line:73][INFO] Epoch:[63/300]  Test acc=58.750
+
+[2025-06-25 13:47:41,372][main_train.py][line:64][INFO] Epoch:[64/300]  task_loss=1.70195  qcfs_loss=0.000393  acc=54.720
+[2025-06-25 13:47:42,768][main_train.py][line:73][INFO] Epoch:[64/300]  Test acc=57.880
+
+[2025-06-25 13:48:15,312][main_train.py][line:64][INFO] Epoch:[65/300]  task_loss=1.67987  qcfs_loss=0.000383  acc=55.314
+[2025-06-25 13:48:17,206][main_train.py][line:73][INFO] Epoch:[65/300]  Test acc=58.420
+
+[2025-06-25 13:48:50,484][main_train.py][line:64][INFO] Epoch:[66/300]  task_loss=1.66501  qcfs_loss=0.000358  acc=55.644
+[2025-06-25 13:48:52,372][main_train.py][line:73][INFO] Epoch:[66/300]  Test acc=62.090
+
+[2025-06-25 13:49:25,845][main_train.py][line:64][INFO] Epoch:[67/300]  task_loss=1.65657  qcfs_loss=0.000359  acc=55.888
+[2025-06-25 13:49:27,753][main_train.py][line:73][INFO] Epoch:[67/300]  Test acc=62.160
+
+[2025-06-25 13:50:01,440][main_train.py][line:64][INFO] Epoch:[68/300]  task_loss=1.65426  qcfs_loss=0.000370  acc=56.084
+[2025-06-25 13:50:02,738][main_train.py][line:73][INFO] Epoch:[68/300]  Test acc=62.790
+
+[2025-06-25 13:50:34,546][main_train.py][line:64][INFO] Epoch:[69/300]  task_loss=1.65820  qcfs_loss=0.000378  acc=55.688
+[2025-06-25 13:50:36,431][main_train.py][line:73][INFO] Epoch:[69/300]  Test acc=59.860
+
+[2025-06-25 13:51:09,770][main_train.py][line:64][INFO] Epoch:[70/300]  task_loss=1.66007  qcfs_loss=0.000348  acc=55.860
+[2025-06-25 13:51:11,673][main_train.py][line:73][INFO] Epoch:[70/300]  Test acc=59.150
+
+[2025-06-25 13:51:44,983][main_train.py][line:64][INFO] Epoch:[71/300]  task_loss=1.64619  qcfs_loss=0.000369  acc=56.424
+[2025-06-25 13:51:46,893][main_train.py][line:73][INFO] Epoch:[71/300]  Test acc=60.600
+
+[2025-06-25 13:52:20,107][main_train.py][line:64][INFO] Epoch:[72/300]  task_loss=1.63859  qcfs_loss=0.000395  acc=56.454
+[2025-06-25 13:52:21,991][main_train.py][line:73][INFO] Epoch:[72/300]  Test acc=57.760
+
+[2025-06-25 13:52:54,559][main_train.py][line:64][INFO] Epoch:[73/300]  task_loss=1.63173  qcfs_loss=0.000409  acc=56.622
+[2025-06-25 13:52:55,679][main_train.py][line:73][INFO] Epoch:[73/300]  Test acc=62.650
+
+[2025-06-25 13:53:28,901][main_train.py][line:64][INFO] Epoch:[74/300]  task_loss=1.61847  qcfs_loss=0.000384  acc=56.926
+[2025-06-25 13:53:30,808][main_train.py][line:73][INFO] Epoch:[74/300]  Test acc=60.400
+
+[2025-06-25 13:54:04,067][main_train.py][line:64][INFO] Epoch:[75/300]  task_loss=1.61133  qcfs_loss=0.000405  acc=57.156
+[2025-06-25 13:54:05,976][main_train.py][line:73][INFO] Epoch:[75/300]  Test acc=61.370
+
+[2025-06-25 13:54:39,214][main_train.py][line:64][INFO] Epoch:[76/300]  task_loss=1.61038  qcfs_loss=0.000390  acc=56.842
+[2025-06-25 13:54:41,111][main_train.py][line:73][INFO] Epoch:[76/300]  Test acc=58.650
+
+[2025-06-25 13:55:14,304][main_train.py][line:64][INFO] Epoch:[77/300]  task_loss=1.61042  qcfs_loss=0.000393  acc=57.242
+[2025-06-25 13:55:15,600][main_train.py][line:73][INFO] Epoch:[77/300]  Test acc=61.890
+
+[2025-06-25 13:55:47,409][main_train.py][line:64][INFO] Epoch:[78/300]  task_loss=1.60536  qcfs_loss=0.000374  acc=57.304
+[2025-06-25 13:55:49,332][main_train.py][line:73][INFO] Epoch:[78/300]  Test acc=62.600
+
+[2025-06-25 13:56:22,541][main_train.py][line:64][INFO] Epoch:[79/300]  task_loss=1.59122  qcfs_loss=0.000398  acc=57.474
+[2025-06-25 13:56:24,438][main_train.py][line:73][INFO] Epoch:[79/300]  Test acc=62.120
+
+[2025-06-25 13:56:57,747][main_train.py][line:64][INFO] Epoch:[80/300]  task_loss=1.58173  qcfs_loss=0.000396  acc=57.772
+[2025-06-25 13:56:59,640][main_train.py][line:73][INFO] Epoch:[80/300]  Test acc=60.970
+
+[2025-06-25 13:57:32,796][main_train.py][line:64][INFO] Epoch:[81/300]  task_loss=1.57972  qcfs_loss=0.000356  acc=57.774
+[2025-06-25 13:57:34,692][main_train.py][line:73][INFO] Epoch:[81/300]  Test acc=63.030
+
+[2025-06-25 13:58:07,576][main_train.py][line:64][INFO] Epoch:[82/300]  task_loss=1.57655  qcfs_loss=0.000350  acc=57.916
+[2025-06-25 13:58:08,736][main_train.py][line:73][INFO] Epoch:[82/300]  Test acc=62.010
+
+[2025-06-25 13:58:42,008][main_train.py][line:64][INFO] Epoch:[83/300]  task_loss=1.58219  qcfs_loss=0.000392  acc=57.734
+[2025-06-25 13:58:43,905][main_train.py][line:73][INFO] Epoch:[83/300]  Test acc=61.290
+
+[2025-06-25 13:59:17,166][main_train.py][line:64][INFO] Epoch:[84/300]  task_loss=1.55286  qcfs_loss=0.000371  acc=58.494
+[2025-06-25 13:59:19,070][main_train.py][line:73][INFO] Epoch:[84/300]  Test acc=60.520
+
+[2025-06-25 13:59:52,312][main_train.py][line:64][INFO] Epoch:[85/300]  task_loss=1.56191  qcfs_loss=0.000396  acc=58.316
+[2025-06-25 13:59:54,207][main_train.py][line:73][INFO] Epoch:[85/300]  Test acc=58.040
+
+[2025-06-25 14:00:27,506][main_train.py][line:64][INFO] Epoch:[86/300]  task_loss=1.53144  qcfs_loss=0.000367  acc=58.998
+[2025-06-25 14:00:28,850][main_train.py][line:73][INFO] Epoch:[86/300]  Test acc=63.170
+
+[2025-06-25 14:01:02,131][main_train.py][line:64][INFO] Epoch:[87/300]  task_loss=1.55079  qcfs_loss=0.000346  acc=58.366
+[2025-06-25 14:01:04,025][main_train.py][line:73][INFO] Epoch:[87/300]  Test acc=61.530
+
+[2025-06-25 14:01:31,675][main_train.py][line:64][INFO] Epoch:[88/300]  task_loss=1.53595  qcfs_loss=0.000382  acc=58.846
+[2025-06-25 14:01:32,645][main_train.py][line:73][INFO] Epoch:[88/300]  Test acc=61.690
+
+[2025-06-25 14:01:47,830][main_train.py][line:64][INFO] Epoch:[89/300]  task_loss=1.53206  qcfs_loss=0.000360  acc=59.306
+[2025-06-25 14:01:48,847][main_train.py][line:73][INFO] Epoch:[89/300]  Test acc=61.080
+
+[2025-06-25 14:02:04,008][main_train.py][line:64][INFO] Epoch:[90/300]  task_loss=1.52190  qcfs_loss=0.000369  acc=59.274
+[2025-06-25 14:02:04,931][main_train.py][line:73][INFO] Epoch:[90/300]  Test acc=63.440
+
+[2025-06-25 14:02:20,517][main_train.py][line:64][INFO] Epoch:[91/300]  task_loss=1.52704  qcfs_loss=0.000386  acc=59.382
+[2025-06-25 14:02:21,464][main_train.py][line:73][INFO] Epoch:[91/300]  Test acc=63.090
+
+[2025-06-25 14:02:36,640][main_train.py][line:64][INFO] Epoch:[92/300]  task_loss=1.52287  qcfs_loss=0.000352  acc=59.252
+[2025-06-25 14:02:37,592][main_train.py][line:73][INFO] Epoch:[92/300]  Test acc=64.850
+
+[2025-06-25 14:02:53,149][main_train.py][line:64][INFO] Epoch:[93/300]  task_loss=1.52579  qcfs_loss=0.000359  acc=59.096
+[2025-06-25 14:02:54,133][main_train.py][line:73][INFO] Epoch:[93/300]  Test acc=65.200
+
+[2025-06-25 14:03:09,784][main_train.py][line:64][INFO] Epoch:[94/300]  task_loss=1.49579  qcfs_loss=0.000371  acc=59.910
+[2025-06-25 14:03:10,763][main_train.py][line:73][INFO] Epoch:[94/300]  Test acc=60.130
+
+[2025-06-25 14:03:25,956][main_train.py][line:64][INFO] Epoch:[95/300]  task_loss=1.49838  qcfs_loss=0.000372  acc=59.734
+[2025-06-25 14:03:26,975][main_train.py][line:73][INFO] Epoch:[95/300]  Test acc=58.940
+
+[2025-06-25 14:03:42,143][main_train.py][line:64][INFO] Epoch:[96/300]  task_loss=1.49451  qcfs_loss=0.000355  acc=60.352
+[2025-06-25 14:03:43,092][main_train.py][line:73][INFO] Epoch:[96/300]  Test acc=57.330
+
+[2025-06-25 14:03:58,262][main_train.py][line:64][INFO] Epoch:[97/300]  task_loss=1.50193  qcfs_loss=0.000373  acc=59.588
+[2025-06-25 14:03:59,228][main_train.py][line:73][INFO] Epoch:[97/300]  Test acc=66.010
+
+[2025-06-25 14:04:14,786][main_train.py][line:64][INFO] Epoch:[98/300]  task_loss=1.48605  qcfs_loss=0.000374  acc=60.222
+[2025-06-25 14:04:15,753][main_train.py][line:73][INFO] Epoch:[98/300]  Test acc=61.250
+
+[2025-06-25 14:04:30,900][main_train.py][line:64][INFO] Epoch:[99/300]  task_loss=1.48040  qcfs_loss=0.000353  acc=60.394
+[2025-06-25 14:04:31,880][main_train.py][line:73][INFO] Epoch:[99/300]  Test acc=63.950
+
+[2025-06-25 14:04:47,069][main_train.py][line:64][INFO] Epoch:[100/300]  task_loss=1.47939  qcfs_loss=0.000346  acc=60.400
+[2025-06-25 14:04:48,031][main_train.py][line:73][INFO] Epoch:[100/300]  Test acc=65.420
+
+[2025-06-25 14:05:03,229][main_train.py][line:64][INFO] Epoch:[101/300]  task_loss=1.47249  qcfs_loss=0.000371  acc=60.676
+[2025-06-25 14:05:04,189][main_train.py][line:73][INFO] Epoch:[101/300]  Test acc=64.490
+
+[2025-06-25 14:05:19,349][main_train.py][line:64][INFO] Epoch:[102/300]  task_loss=1.46340  qcfs_loss=0.000347  acc=60.696
+[2025-06-25 14:05:20,367][main_train.py][line:73][INFO] Epoch:[102/300]  Test acc=64.230
+
+[2025-06-25 14:05:35,550][main_train.py][line:64][INFO] Epoch:[103/300]  task_loss=1.45090  qcfs_loss=0.000358  acc=61.168
+[2025-06-25 14:05:36,511][main_train.py][line:73][INFO] Epoch:[103/300]  Test acc=62.300
+
+[2025-06-25 14:05:51,702][main_train.py][line:64][INFO] Epoch:[104/300]  task_loss=1.46597  qcfs_loss=0.000335  acc=60.750
+[2025-06-25 14:05:52,674][main_train.py][line:73][INFO] Epoch:[104/300]  Test acc=65.010
+
+[2025-06-25 14:06:07,817][main_train.py][line:64][INFO] Epoch:[105/300]  task_loss=1.45145  qcfs_loss=0.000363  acc=61.100
+[2025-06-25 14:06:08,754][main_train.py][line:73][INFO] Epoch:[105/300]  Test acc=64.300
+
+[2025-06-25 14:06:23,945][main_train.py][line:64][INFO] Epoch:[106/300]  task_loss=1.46470  qcfs_loss=0.000378  acc=60.886
+[2025-06-25 14:06:24,932][main_train.py][line:73][INFO] Epoch:[106/300]  Test acc=63.760
+
+[2025-06-25 14:06:40,082][main_train.py][line:64][INFO] Epoch:[107/300]  task_loss=1.43597  qcfs_loss=0.000346  acc=61.494
+[2025-06-25 14:06:41,066][main_train.py][line:73][INFO] Epoch:[107/300]  Test acc=64.700
+
+[2025-06-25 14:06:56,248][main_train.py][line:64][INFO] Epoch:[108/300]  task_loss=1.41984  qcfs_loss=0.000344  acc=62.092
+[2025-06-25 14:06:57,229][main_train.py][line:73][INFO] Epoch:[108/300]  Test acc=63.050
+
+[2025-06-25 14:07:12,408][main_train.py][line:64][INFO] Epoch:[109/300]  task_loss=1.41937  qcfs_loss=0.000357  acc=61.894
+[2025-06-25 14:07:13,342][main_train.py][line:73][INFO] Epoch:[109/300]  Test acc=63.210
+
+[2025-06-25 14:07:28,514][main_train.py][line:64][INFO] Epoch:[110/300]  task_loss=1.40507  qcfs_loss=0.000358  acc=62.072
+[2025-06-25 14:07:29,472][main_train.py][line:73][INFO] Epoch:[110/300]  Test acc=65.840
+
+[2025-06-25 14:07:44,688][main_train.py][line:64][INFO] Epoch:[111/300]  task_loss=1.41628  qcfs_loss=0.000317  acc=61.896
+[2025-06-25 14:07:45,652][main_train.py][line:73][INFO] Epoch:[111/300]  Test acc=65.560
+
+[2025-06-25 14:08:00,855][main_train.py][line:64][INFO] Epoch:[112/300]  task_loss=1.41297  qcfs_loss=0.000316  acc=62.168
+[2025-06-25 14:08:01,851][main_train.py][line:73][INFO] Epoch:[112/300]  Test acc=65.680
+
+[2025-06-25 14:08:17,007][main_train.py][line:64][INFO] Epoch:[113/300]  task_loss=1.40709  qcfs_loss=0.000329  acc=62.358
+[2025-06-25 14:08:17,951][main_train.py][line:73][INFO] Epoch:[113/300]  Test acc=63.010
+
+[2025-06-25 14:08:33,123][main_train.py][line:64][INFO] Epoch:[114/300]  task_loss=1.39683  qcfs_loss=0.000334  acc=62.296
+[2025-06-25 14:08:34,077][main_train.py][line:73][INFO] Epoch:[114/300]  Test acc=64.540
+
+[2025-06-25 14:08:49,224][main_train.py][line:64][INFO] Epoch:[115/300]  task_loss=1.38494  qcfs_loss=0.000315  acc=62.824
+[2025-06-25 14:08:50,195][main_train.py][line:73][INFO] Epoch:[115/300]  Test acc=64.560
+
+[2025-06-25 14:09:05,336][main_train.py][line:64][INFO] Epoch:[116/300]  task_loss=1.39154  qcfs_loss=0.000332  acc=62.660
+[2025-06-25 14:09:06,315][main_train.py][line:73][INFO] Epoch:[116/300]  Test acc=64.400
+
+[2025-06-25 14:09:21,522][main_train.py][line:64][INFO] Epoch:[117/300]  task_loss=1.39192  qcfs_loss=0.000345  acc=62.556
+[2025-06-25 14:09:22,462][main_train.py][line:73][INFO] Epoch:[117/300]  Test acc=65.830
+
+[2025-06-25 14:09:37,648][main_train.py][line:64][INFO] Epoch:[118/300]  task_loss=1.37331  qcfs_loss=0.000311  acc=62.922
+[2025-06-25 14:09:38,568][main_train.py][line:73][INFO] Epoch:[118/300]  Test acc=66.730
+
+[2025-06-25 14:09:54,102][main_train.py][line:64][INFO] Epoch:[119/300]  task_loss=1.37650  qcfs_loss=0.000305  acc=62.814
+[2025-06-25 14:09:55,041][main_train.py][line:73][INFO] Epoch:[119/300]  Test acc=66.190
+
+[2025-06-25 14:10:10,218][main_train.py][line:64][INFO] Epoch:[120/300]  task_loss=1.36687  qcfs_loss=0.000311  acc=63.186
+[2025-06-25 14:10:11,229][main_train.py][line:73][INFO] Epoch:[120/300]  Test acc=63.100
+
+[2025-06-25 14:10:26,385][main_train.py][line:64][INFO] Epoch:[121/300]  task_loss=1.35541  qcfs_loss=0.000338  acc=63.648
+[2025-06-25 14:10:27,347][main_train.py][line:73][INFO] Epoch:[121/300]  Test acc=65.630
+
+[2025-06-25 14:10:42,516][main_train.py][line:64][INFO] Epoch:[122/300]  task_loss=1.35359  qcfs_loss=0.000301  acc=63.444
+[2025-06-25 14:10:43,441][main_train.py][line:73][INFO] Epoch:[122/300]  Test acc=66.050
+
+[2025-06-25 14:10:58,623][main_train.py][line:64][INFO] Epoch:[123/300]  task_loss=1.35127  qcfs_loss=0.000315  acc=63.430
+[2025-06-25 14:10:59,581][main_train.py][line:73][INFO] Epoch:[123/300]  Test acc=66.910
+
+[2025-06-25 14:11:15,173][main_train.py][line:64][INFO] Epoch:[124/300]  task_loss=1.33903  qcfs_loss=0.000315  acc=63.980
+[2025-06-25 14:11:16,118][main_train.py][line:73][INFO] Epoch:[124/300]  Test acc=66.800
+
+[2025-06-25 14:11:31,309][main_train.py][line:64][INFO] Epoch:[125/300]  task_loss=1.34213  qcfs_loss=0.000306  acc=63.996
+[2025-06-25 14:11:32,288][main_train.py][line:73][INFO] Epoch:[125/300]  Test acc=65.590
+
+[2025-06-25 14:11:47,446][main_train.py][line:64][INFO] Epoch:[126/300]  task_loss=1.33435  qcfs_loss=0.000322  acc=64.044
+[2025-06-25 14:11:48,419][main_train.py][line:73][INFO] Epoch:[126/300]  Test acc=67.960
+
+[2025-06-25 14:12:04,074][main_train.py][line:64][INFO] Epoch:[127/300]  task_loss=1.34695  qcfs_loss=0.000316  acc=63.862
+[2025-06-25 14:12:05,030][main_train.py][line:73][INFO] Epoch:[127/300]  Test acc=64.610
+
+[2025-06-25 14:12:20,228][main_train.py][line:64][INFO] Epoch:[128/300]  task_loss=1.31758  qcfs_loss=0.000309  acc=64.642
+[2025-06-25 14:12:21,178][main_train.py][line:73][INFO] Epoch:[128/300]  Test acc=65.830
+
+[2025-06-25 14:12:36,359][main_train.py][line:64][INFO] Epoch:[129/300]  task_loss=1.30318  qcfs_loss=0.000317  acc=64.814
+[2025-06-25 14:12:37,371][main_train.py][line:73][INFO] Epoch:[129/300]  Test acc=64.510
+
+[2025-06-25 14:12:52,540][main_train.py][line:64][INFO] Epoch:[130/300]  task_loss=1.31017  qcfs_loss=0.000300  acc=64.642
+[2025-06-25 14:12:53,553][main_train.py][line:73][INFO] Epoch:[130/300]  Test acc=63.090
+
+[2025-06-25 14:13:08,750][main_train.py][line:64][INFO] Epoch:[131/300]  task_loss=1.31188  qcfs_loss=0.000307  acc=64.528
+[2025-06-25 14:13:09,704][main_train.py][line:73][INFO] Epoch:[131/300]  Test acc=66.040
+
+[2025-06-25 14:13:24,902][main_train.py][line:64][INFO] Epoch:[132/300]  task_loss=1.30564  qcfs_loss=0.000306  acc=64.694
+[2025-06-25 14:13:25,846][main_train.py][line:73][INFO] Epoch:[132/300]  Test acc=64.950
+
+[2025-06-25 14:13:41,015][main_train.py][line:64][INFO] Epoch:[133/300]  task_loss=1.29772  qcfs_loss=0.000325  acc=65.004
+[2025-06-25 14:13:42,014][main_train.py][line:73][INFO] Epoch:[133/300]  Test acc=64.250
+
+[2025-06-25 14:13:57,206][main_train.py][line:64][INFO] Epoch:[134/300]  task_loss=1.28608  qcfs_loss=0.000315  acc=65.308
+[2025-06-25 14:13:58,164][main_train.py][line:73][INFO] Epoch:[134/300]  Test acc=68.290
+
+[2025-06-25 14:14:13,843][main_train.py][line:64][INFO] Epoch:[135/300]  task_loss=1.26506  qcfs_loss=0.000304  acc=65.708
+[2025-06-25 14:14:14,819][main_train.py][line:73][INFO] Epoch:[135/300]  Test acc=66.660
+
+[2025-06-25 14:14:29,966][main_train.py][line:64][INFO] Epoch:[136/300]  task_loss=1.27990  qcfs_loss=0.000289  acc=65.558
+[2025-06-25 14:14:30,968][main_train.py][line:73][INFO] Epoch:[136/300]  Test acc=65.620
+
+[2025-06-25 14:14:46,145][main_train.py][line:64][INFO] Epoch:[137/300]  task_loss=1.28043  qcfs_loss=0.000305  acc=65.366
+[2025-06-25 14:14:47,102][main_train.py][line:73][INFO] Epoch:[137/300]  Test acc=65.400
+
+[2025-06-25 14:15:02,295][main_train.py][line:64][INFO] Epoch:[138/300]  task_loss=1.27048  qcfs_loss=0.000303  acc=65.684
+[2025-06-25 14:15:03,312][main_train.py][line:73][INFO] Epoch:[138/300]  Test acc=68.480
+
+[2025-06-25 14:15:18,871][main_train.py][line:64][INFO] Epoch:[139/300]  task_loss=1.25793  qcfs_loss=0.000301  acc=65.948
+[2025-06-25 14:15:19,844][main_train.py][line:73][INFO] Epoch:[139/300]  Test acc=67.500
+
+[2025-06-25 14:15:35,029][main_train.py][line:64][INFO] Epoch:[140/300]  task_loss=1.25437  qcfs_loss=0.000293  acc=66.112
+[2025-06-25 14:15:35,951][main_train.py][line:73][INFO] Epoch:[140/300]  Test acc=66.710
+
+[2025-06-25 14:15:51,040][main_train.py][line:64][INFO] Epoch:[141/300]  task_loss=1.23177  qcfs_loss=0.000306  acc=66.482
+[2025-06-25 14:15:51,960][main_train.py][line:73][INFO] Epoch:[141/300]  Test acc=68.630
+
+[2025-06-25 14:16:07,489][main_train.py][line:64][INFO] Epoch:[142/300]  task_loss=1.23822  qcfs_loss=0.000279  acc=66.702
+[2025-06-25 14:16:08,411][main_train.py][line:73][INFO] Epoch:[142/300]  Test acc=66.370
+
+[2025-06-25 14:16:23,544][main_train.py][line:64][INFO] Epoch:[143/300]  task_loss=1.23063  qcfs_loss=0.000266  acc=66.502
+[2025-06-25 14:16:24,520][main_train.py][line:73][INFO] Epoch:[143/300]  Test acc=66.180
+
+[2025-06-25 14:16:39,654][main_train.py][line:64][INFO] Epoch:[144/300]  task_loss=1.22703  qcfs_loss=0.000288  acc=66.988
+[2025-06-25 14:16:40,589][main_train.py][line:73][INFO] Epoch:[144/300]  Test acc=68.010
+
+[2025-06-25 14:16:55,718][main_train.py][line:64][INFO] Epoch:[145/300]  task_loss=1.22066  qcfs_loss=0.000281  acc=66.884
+[2025-06-25 14:16:56,660][main_train.py][line:73][INFO] Epoch:[145/300]  Test acc=67.330
+
+[2025-06-25 14:17:11,813][main_train.py][line:64][INFO] Epoch:[146/300]  task_loss=1.21985  qcfs_loss=0.000281  acc=67.170
+[2025-06-25 14:17:12,778][main_train.py][line:73][INFO] Epoch:[146/300]  Test acc=67.070
+
+[2025-06-25 14:17:27,894][main_train.py][line:64][INFO] Epoch:[147/300]  task_loss=1.22239  qcfs_loss=0.000277  acc=66.714
+[2025-06-25 14:17:28,855][main_train.py][line:73][INFO] Epoch:[147/300]  Test acc=67.720
+
+[2025-06-25 14:17:43,987][main_train.py][line:64][INFO] Epoch:[148/300]  task_loss=1.21075  qcfs_loss=0.000288  acc=67.040
+[2025-06-25 14:17:44,911][main_train.py][line:73][INFO] Epoch:[148/300]  Test acc=67.620
+
+[2025-06-25 14:18:00,103][main_train.py][line:64][INFO] Epoch:[149/300]  task_loss=1.20450  qcfs_loss=0.000286  acc=67.202
+[2025-06-25 14:18:01,086][main_train.py][line:73][INFO] Epoch:[149/300]  Test acc=67.180
+
+[2025-06-25 14:18:16,253][main_train.py][line:64][INFO] Epoch:[150/300]  task_loss=1.19272  qcfs_loss=0.000286  acc=67.638
+[2025-06-25 14:18:17,226][main_train.py][line:73][INFO] Epoch:[150/300]  Test acc=67.810
+
+[2025-06-25 14:18:32,392][main_train.py][line:64][INFO] Epoch:[151/300]  task_loss=1.20564  qcfs_loss=0.000279  acc=67.186
+[2025-06-25 14:18:33,351][main_train.py][line:73][INFO] Epoch:[151/300]  Test acc=67.140
+
+[2025-06-25 14:18:48,492][main_train.py][line:64][INFO] Epoch:[152/300]  task_loss=1.17713  qcfs_loss=0.000273  acc=67.974
+[2025-06-25 14:18:49,462][main_train.py][line:73][INFO] Epoch:[152/300]  Test acc=68.720
+
+[2025-06-25 14:19:05,008][main_train.py][line:64][INFO] Epoch:[153/300]  task_loss=1.16573  qcfs_loss=0.000250  acc=68.178
+[2025-06-25 14:19:05,946][main_train.py][line:73][INFO] Epoch:[153/300]  Test acc=66.210
+
+[2025-06-25 14:19:21,122][main_train.py][line:64][INFO] Epoch:[154/300]  task_loss=1.16762  qcfs_loss=0.000269  acc=68.230
+[2025-06-25 14:19:22,171][main_train.py][line:73][INFO] Epoch:[154/300]  Test acc=66.900
+
+[2025-06-25 14:19:37,335][main_train.py][line:64][INFO] Epoch:[155/300]  task_loss=1.16670  qcfs_loss=0.000270  acc=68.394
+[2025-06-25 14:19:38,308][main_train.py][line:73][INFO] Epoch:[155/300]  Test acc=69.450
+
+[2025-06-25 14:19:53,876][main_train.py][line:64][INFO] Epoch:[156/300]  task_loss=1.16368  qcfs_loss=0.000266  acc=68.476
+[2025-06-25 14:19:54,816][main_train.py][line:73][INFO] Epoch:[156/300]  Test acc=66.630
+
+[2025-06-25 14:20:09,930][main_train.py][line:64][INFO] Epoch:[157/300]  task_loss=1.13917  qcfs_loss=0.000257  acc=69.190
+[2025-06-25 14:20:10,896][main_train.py][line:73][INFO] Epoch:[157/300]  Test acc=69.480
+
+[2025-06-25 14:20:27,106][main_train.py][line:64][INFO] Epoch:[158/300]  task_loss=1.14890  qcfs_loss=0.000264  acc=68.922
+[2025-06-25 14:20:28,064][main_train.py][line:73][INFO] Epoch:[158/300]  Test acc=68.170
+
+[2025-06-25 14:20:43,259][main_train.py][line:64][INFO] Epoch:[159/300]  task_loss=1.13891  qcfs_loss=0.000264  acc=69.176
+[2025-06-25 14:20:44,209][main_train.py][line:73][INFO] Epoch:[159/300]  Test acc=68.950
+
+[2025-06-25 14:20:59,383][main_train.py][line:64][INFO] Epoch:[160/300]  task_loss=1.13069  qcfs_loss=0.000256  acc=69.150
+[2025-06-25 14:21:00,300][main_train.py][line:73][INFO] Epoch:[160/300]  Test acc=68.910
+
+[2025-06-25 14:21:15,418][main_train.py][line:64][INFO] Epoch:[161/300]  task_loss=1.14042  qcfs_loss=0.000247  acc=68.948
+[2025-06-25 14:21:16,395][main_train.py][line:73][INFO] Epoch:[161/300]  Test acc=67.060
+
+[2025-06-25 14:21:31,580][main_train.py][line:64][INFO] Epoch:[162/300]  task_loss=1.11268  qcfs_loss=0.000252  acc=69.620
+[2025-06-25 14:21:32,539][main_train.py][line:73][INFO] Epoch:[162/300]  Test acc=66.140
+
+[2025-06-25 14:21:47,704][main_train.py][line:64][INFO] Epoch:[163/300]  task_loss=1.11048  qcfs_loss=0.000254  acc=69.976
+[2025-06-25 14:21:48,693][main_train.py][line:73][INFO] Epoch:[163/300]  Test acc=69.610
+
+[2025-06-25 14:22:04,248][main_train.py][line:64][INFO] Epoch:[164/300]  task_loss=1.09907  qcfs_loss=0.000251  acc=69.882
+[2025-06-25 14:22:05,201][main_train.py][line:73][INFO] Epoch:[164/300]  Test acc=69.340
+
+[2025-06-25 14:22:20,334][main_train.py][line:64][INFO] Epoch:[165/300]  task_loss=1.09677  qcfs_loss=0.000252  acc=70.122
+[2025-06-25 14:22:21,319][main_train.py][line:73][INFO] Epoch:[165/300]  Test acc=68.620
+
+[2025-06-25 14:22:36,483][main_train.py][line:64][INFO] Epoch:[166/300]  task_loss=1.11188  qcfs_loss=0.000259  acc=69.570
+[2025-06-25 14:22:37,467][main_train.py][line:73][INFO] Epoch:[166/300]  Test acc=68.940
+
+[2025-06-25 14:22:52,642][main_train.py][line:64][INFO] Epoch:[167/300]  task_loss=1.10668  qcfs_loss=0.000252  acc=69.802
+[2025-06-25 14:22:53,632][main_train.py][line:73][INFO] Epoch:[167/300]  Test acc=68.550
+
+[2025-06-25 14:23:08,774][main_train.py][line:64][INFO] Epoch:[168/300]  task_loss=1.08450  qcfs_loss=0.000256  acc=70.438
+[2025-06-25 14:23:09,754][main_train.py][line:73][INFO] Epoch:[168/300]  Test acc=69.790
+
+[2025-06-25 14:23:25,269][main_train.py][line:64][INFO] Epoch:[169/300]  task_loss=1.06444  qcfs_loss=0.000243  acc=70.954
+[2025-06-25 14:23:26,196][main_train.py][line:73][INFO] Epoch:[169/300]  Test acc=67.970
+
+[2025-06-25 14:23:41,342][main_train.py][line:64][INFO] Epoch:[170/300]  task_loss=1.07103  qcfs_loss=0.000226  acc=71.058
+[2025-06-25 14:23:42,309][main_train.py][line:73][INFO] Epoch:[170/300]  Test acc=68.790
+
+[2025-06-25 14:23:57,425][main_train.py][line:64][INFO] Epoch:[171/300]  task_loss=1.04755  qcfs_loss=0.000247  acc=71.218
+[2025-06-25 14:23:58,352][main_train.py][line:73][INFO] Epoch:[171/300]  Test acc=68.650
+
+[2025-06-25 14:24:13,484][main_train.py][line:64][INFO] Epoch:[172/300]  task_loss=1.05566  qcfs_loss=0.000228  acc=71.096
+[2025-06-25 14:24:14,418][main_train.py][line:73][INFO] Epoch:[172/300]  Test acc=68.530
+
+[2025-06-25 14:24:29,589][main_train.py][line:64][INFO] Epoch:[173/300]  task_loss=1.04561  qcfs_loss=0.000228  acc=71.656
+[2025-06-25 14:24:30,549][main_train.py][line:73][INFO] Epoch:[173/300]  Test acc=68.570
+
+[2025-06-25 14:24:45,691][main_train.py][line:64][INFO] Epoch:[174/300]  task_loss=1.04327  qcfs_loss=0.000241  acc=71.398
+[2025-06-25 14:24:46,616][main_train.py][line:73][INFO] Epoch:[174/300]  Test acc=69.130
+
+[2025-06-25 14:25:01,738][main_train.py][line:64][INFO] Epoch:[175/300]  task_loss=1.04355  qcfs_loss=0.000220  acc=71.536
+[2025-06-25 14:25:02,688][main_train.py][line:73][INFO] Epoch:[175/300]  Test acc=70.090
+
+[2025-06-25 14:25:18,238][main_train.py][line:64][INFO] Epoch:[176/300]  task_loss=1.02487  qcfs_loss=0.000230  acc=71.990
+[2025-06-25 14:25:19,190][main_train.py][line:73][INFO] Epoch:[176/300]  Test acc=71.060
+
+[2025-06-25 14:25:34,760][main_train.py][line:64][INFO] Epoch:[177/300]  task_loss=1.02425  qcfs_loss=0.000227  acc=71.844
+[2025-06-25 14:25:35,739][main_train.py][line:73][INFO] Epoch:[177/300]  Test acc=69.840
+
+[2025-06-25 14:25:50,893][main_train.py][line:64][INFO] Epoch:[178/300]  task_loss=1.01889  qcfs_loss=0.000215  acc=72.172
+[2025-06-25 14:25:51,817][main_train.py][line:73][INFO] Epoch:[178/300]  Test acc=69.840
+
+[2025-06-25 14:26:06,967][main_train.py][line:64][INFO] Epoch:[179/300]  task_loss=1.01486  qcfs_loss=0.000217  acc=72.372
+[2025-06-25 14:26:07,920][main_train.py][line:73][INFO] Epoch:[179/300]  Test acc=70.860
+
+[2025-06-25 14:26:23,107][main_train.py][line:64][INFO] Epoch:[180/300]  task_loss=1.01200  qcfs_loss=0.000212  acc=72.194
+[2025-06-25 14:26:24,050][main_train.py][line:73][INFO] Epoch:[180/300]  Test acc=69.810
+
+[2025-06-25 14:26:39,247][main_train.py][line:64][INFO] Epoch:[181/300]  task_loss=0.99699  qcfs_loss=0.000221  acc=72.736
+[2025-06-25 14:26:40,184][main_train.py][line:73][INFO] Epoch:[181/300]  Test acc=70.530
+
+[2025-06-25 14:26:55,338][main_train.py][line:64][INFO] Epoch:[182/300]  task_loss=0.98985  qcfs_loss=0.000210  acc=72.858
+[2025-06-25 14:26:56,294][main_train.py][line:73][INFO] Epoch:[182/300]  Test acc=69.250
+
+[2025-06-25 14:27:11,415][main_train.py][line:64][INFO] Epoch:[183/300]  task_loss=0.98783  qcfs_loss=0.000207  acc=73.052
+[2025-06-25 14:27:12,371][main_train.py][line:73][INFO] Epoch:[183/300]  Test acc=70.130
+
+[2025-06-25 14:27:27,507][main_train.py][line:64][INFO] Epoch:[184/300]  task_loss=0.97606  qcfs_loss=0.000204  acc=73.398
+[2025-06-25 14:27:28,414][main_train.py][line:73][INFO] Epoch:[184/300]  Test acc=69.960
+
+[2025-06-25 14:27:43,568][main_train.py][line:64][INFO] Epoch:[185/300]  task_loss=0.97556  qcfs_loss=0.000198  acc=73.386
+[2025-06-25 14:27:44,509][main_train.py][line:73][INFO] Epoch:[185/300]  Test acc=68.940
+
+[2025-06-25 14:27:59,669][main_train.py][line:64][INFO] Epoch:[186/300]  task_loss=0.96183  qcfs_loss=0.000204  acc=73.568
+[2025-06-25 14:28:00,674][main_train.py][line:73][INFO] Epoch:[186/300]  Test acc=70.410
+
+[2025-06-25 14:28:15,808][main_train.py][line:64][INFO] Epoch:[187/300]  task_loss=0.94219  qcfs_loss=0.000209  acc=74.138
+[2025-06-25 14:28:16,753][main_train.py][line:73][INFO] Epoch:[187/300]  Test acc=70.290
+
+[2025-06-25 14:28:31,908][main_train.py][line:64][INFO] Epoch:[188/300]  task_loss=0.95454  qcfs_loss=0.000206  acc=73.926
+[2025-06-25 14:28:32,914][main_train.py][line:73][INFO] Epoch:[188/300]  Test acc=70.980
+
+[2025-06-25 14:28:48,064][main_train.py][line:64][INFO] Epoch:[189/300]  task_loss=0.93609  qcfs_loss=0.000195  acc=74.282
+[2025-06-25 14:28:49,018][main_train.py][line:73][INFO] Epoch:[189/300]  Test acc=69.890
+
+[2025-06-25 14:29:04,141][main_train.py][line:64][INFO] Epoch:[190/300]  task_loss=0.94256  qcfs_loss=0.000198  acc=74.260
+[2025-06-25 14:29:05,128][main_train.py][line:73][INFO] Epoch:[190/300]  Test acc=71.050
+
+[2025-06-25 14:29:20,258][main_train.py][line:64][INFO] Epoch:[191/300]  task_loss=0.91704  qcfs_loss=0.000198  acc=74.918
+[2025-06-25 14:29:21,228][main_train.py][line:73][INFO] Epoch:[191/300]  Test acc=69.220
+
+[2025-06-25 14:29:36,354][main_train.py][line:64][INFO] Epoch:[192/300]  task_loss=0.91919  qcfs_loss=0.000198  acc=74.832
+[2025-06-25 14:29:37,291][main_train.py][line:73][INFO] Epoch:[192/300]  Test acc=71.960
+
+[2025-06-25 14:29:53,309][main_train.py][line:64][INFO] Epoch:[193/300]  task_loss=0.91916  qcfs_loss=0.000181  acc=74.742
+[2025-06-25 14:29:54,241][main_train.py][line:73][INFO] Epoch:[193/300]  Test acc=71.160
+
+[2025-06-25 14:30:09,373][main_train.py][line:64][INFO] Epoch:[194/300]  task_loss=0.91647  qcfs_loss=0.000192  acc=74.982
+[2025-06-25 14:30:10,309][main_train.py][line:73][INFO] Epoch:[194/300]  Test acc=69.470
+
+[2025-06-25 14:30:25,433][main_train.py][line:64][INFO] Epoch:[195/300]  task_loss=0.89029  qcfs_loss=0.000181  acc=75.412
+[2025-06-25 14:30:26,366][main_train.py][line:73][INFO] Epoch:[195/300]  Test acc=70.690
+
+[2025-06-25 14:30:41,492][main_train.py][line:64][INFO] Epoch:[196/300]  task_loss=0.89294  qcfs_loss=0.000180  acc=75.494
+[2025-06-25 14:30:42,410][main_train.py][line:73][INFO] Epoch:[196/300]  Test acc=71.250
+
+[2025-06-25 14:30:57,510][main_train.py][line:64][INFO] Epoch:[197/300]  task_loss=0.88689  qcfs_loss=0.000182  acc=75.634
+[2025-06-25 14:30:58,493][main_train.py][line:73][INFO] Epoch:[197/300]  Test acc=72.070
+
+[2025-06-25 14:31:14,030][main_train.py][line:64][INFO] Epoch:[198/300]  task_loss=0.87559  qcfs_loss=0.000183  acc=76.060
+[2025-06-25 14:31:14,973][main_train.py][line:73][INFO] Epoch:[198/300]  Test acc=70.510
+
+[2025-06-25 14:31:30,105][main_train.py][line:64][INFO] Epoch:[199/300]  task_loss=0.87110  qcfs_loss=0.000180  acc=76.126
+[2025-06-25 14:31:31,050][main_train.py][line:73][INFO] Epoch:[199/300]  Test acc=71.160
+
+[2025-06-25 14:31:46,163][main_train.py][line:64][INFO] Epoch:[200/300]  task_loss=0.86828  qcfs_loss=0.000183  acc=76.084
+[2025-06-25 14:31:47,099][main_train.py][line:73][INFO] Epoch:[200/300]  Test acc=71.180
+
+[2025-06-25 14:32:02,245][main_train.py][line:64][INFO] Epoch:[201/300]  task_loss=0.86556  qcfs_loss=0.000184  acc=76.272
+[2025-06-25 14:32:03,208][main_train.py][line:73][INFO] Epoch:[201/300]  Test acc=71.910
+
+[2025-06-25 14:32:18,363][main_train.py][line:64][INFO] Epoch:[202/300]  task_loss=0.85755  qcfs_loss=0.000181  acc=76.396
+[2025-06-25 14:32:19,299][main_train.py][line:73][INFO] Epoch:[202/300]  Test acc=72.650
+
+[2025-06-25 14:32:34,811][main_train.py][line:64][INFO] Epoch:[203/300]  task_loss=0.85073  qcfs_loss=0.000174  acc=76.808
+[2025-06-25 14:32:35,763][main_train.py][line:73][INFO] Epoch:[203/300]  Test acc=72.150
+
+[2025-06-25 14:32:50,883][main_train.py][line:64][INFO] Epoch:[204/300]  task_loss=0.84386  qcfs_loss=0.000174  acc=77.028
+[2025-06-25 14:32:51,915][main_train.py][line:73][INFO] Epoch:[204/300]  Test acc=71.510
+
+[2025-06-25 14:33:07,045][main_train.py][line:64][INFO] Epoch:[205/300]  task_loss=0.83541  qcfs_loss=0.000176  acc=77.090
+[2025-06-25 14:33:07,978][main_train.py][line:73][INFO] Epoch:[205/300]  Test acc=72.110
+
+[2025-06-25 14:33:23,128][main_train.py][line:64][INFO] Epoch:[206/300]  task_loss=0.82300  qcfs_loss=0.000165  acc=77.344
+[2025-06-25 14:33:24,069][main_train.py][line:73][INFO] Epoch:[206/300]  Test acc=71.330
+
+[2025-06-25 14:33:39,228][main_train.py][line:64][INFO] Epoch:[207/300]  task_loss=0.81411  qcfs_loss=0.000170  acc=77.724
+[2025-06-25 14:33:40,186][main_train.py][line:73][INFO] Epoch:[207/300]  Test acc=72.410
+
+[2025-06-25 14:33:55,355][main_train.py][line:64][INFO] Epoch:[208/300]  task_loss=0.80912  qcfs_loss=0.000171  acc=77.990
+[2025-06-25 14:33:56,283][main_train.py][line:73][INFO] Epoch:[208/300]  Test acc=72.720
+
+[2025-06-25 14:34:11,849][main_train.py][line:64][INFO] Epoch:[209/300]  task_loss=0.80070  qcfs_loss=0.000156  acc=78.020
+[2025-06-25 14:34:12,773][main_train.py][line:73][INFO] Epoch:[209/300]  Test acc=72.610
+
+[2025-06-25 14:34:27,918][main_train.py][line:64][INFO] Epoch:[210/300]  task_loss=0.79910  qcfs_loss=0.000160  acc=78.104
+[2025-06-25 14:34:28,901][main_train.py][line:73][INFO] Epoch:[210/300]  Test acc=72.180
+
+[2025-06-25 14:34:44,029][main_train.py][line:64][INFO] Epoch:[211/300]  task_loss=0.78002  qcfs_loss=0.000154  acc=78.490
+[2025-06-25 14:34:45,002][main_train.py][line:73][INFO] Epoch:[211/300]  Test acc=72.690
+
+[2025-06-25 14:35:00,161][main_train.py][line:64][INFO] Epoch:[212/300]  task_loss=0.77154  qcfs_loss=0.000162  acc=78.780
+[2025-06-25 14:35:01,091][main_train.py][line:73][INFO] Epoch:[212/300]  Test acc=71.160
+
+[2025-06-25 14:35:16,231][main_train.py][line:64][INFO] Epoch:[213/300]  task_loss=0.77917  qcfs_loss=0.000157  acc=78.620
+[2025-06-25 14:35:17,201][main_train.py][line:73][INFO] Epoch:[213/300]  Test acc=72.310
+
+[2025-06-25 14:35:32,378][main_train.py][line:64][INFO] Epoch:[214/300]  task_loss=0.75833  qcfs_loss=0.000154  acc=78.978
+[2025-06-25 14:35:33,766][main_train.py][line:73][INFO] Epoch:[214/300]  Test acc=73.170
+
+[2025-06-25 14:35:49,536][main_train.py][line:64][INFO] Epoch:[215/300]  task_loss=0.74833  qcfs_loss=0.000147  acc=79.304
+[2025-06-25 14:35:50,696][main_train.py][line:73][INFO] Epoch:[215/300]  Test acc=71.520
+
+[2025-06-25 14:36:05,992][main_train.py][line:64][INFO] Epoch:[216/300]  task_loss=0.74877  qcfs_loss=0.000151  acc=79.522
+[2025-06-25 14:36:07,108][main_train.py][line:73][INFO] Epoch:[216/300]  Test acc=73.520
+
+[2025-06-25 14:36:22,901][main_train.py][line:64][INFO] Epoch:[217/300]  task_loss=0.74084  qcfs_loss=0.000150  acc=79.526
+[2025-06-25 14:36:24,152][main_train.py][line:73][INFO] Epoch:[217/300]  Test acc=73.400
+
+[2025-06-25 14:36:39,428][main_train.py][line:64][INFO] Epoch:[218/300]  task_loss=0.73405  qcfs_loss=0.000151  acc=79.988
+[2025-06-25 14:36:40,557][main_train.py][line:73][INFO] Epoch:[218/300]  Test acc=73.350
+
+[2025-06-25 14:36:55,888][main_train.py][line:64][INFO] Epoch:[219/300]  task_loss=0.73499  qcfs_loss=0.000144  acc=79.842
+[2025-06-25 14:36:57,232][main_train.py][line:73][INFO] Epoch:[219/300]  Test acc=73.310
+
+[2025-06-25 14:37:12,470][main_train.py][line:64][INFO] Epoch:[220/300]  task_loss=0.72331  qcfs_loss=0.000146  acc=80.212
+[2025-06-25 14:37:13,582][main_train.py][line:73][INFO] Epoch:[220/300]  Test acc=72.780
+
+[2025-06-25 14:37:28,866][main_train.py][line:64][INFO] Epoch:[221/300]  task_loss=0.70426  qcfs_loss=0.000142  acc=80.650
+[2025-06-25 14:37:30,057][main_train.py][line:73][INFO] Epoch:[221/300]  Test acc=72.660
+
+[2025-06-25 14:37:45,350][main_train.py][line:64][INFO] Epoch:[222/300]  task_loss=0.69884  qcfs_loss=0.000141  acc=80.770
+[2025-06-25 14:37:46,599][main_train.py][line:73][INFO] Epoch:[222/300]  Test acc=72.520
+
+[2025-06-25 14:38:01,862][main_train.py][line:64][INFO] Epoch:[223/300]  task_loss=0.70225  qcfs_loss=0.000143  acc=80.770
+[2025-06-25 14:38:02,868][main_train.py][line:73][INFO] Epoch:[223/300]  Test acc=73.300
+
+[2025-06-25 14:38:17,984][main_train.py][line:64][INFO] Epoch:[224/300]  task_loss=0.69709  qcfs_loss=0.000141  acc=80.990
+[2025-06-25 14:38:19,163][main_train.py][line:73][INFO] Epoch:[224/300]  Test acc=73.300
+
+[2025-06-25 14:38:34,436][main_train.py][line:64][INFO] Epoch:[225/300]  task_loss=0.68916  qcfs_loss=0.000138  acc=81.238
+[2025-06-25 14:38:35,701][main_train.py][line:73][INFO] Epoch:[225/300]  Test acc=73.690
+
+[2025-06-25 14:38:51,490][main_train.py][line:64][INFO] Epoch:[226/300]  task_loss=0.67672  qcfs_loss=0.000150  acc=81.462
+[2025-06-25 14:38:52,671][main_train.py][line:73][INFO] Epoch:[226/300]  Test acc=73.540
+
+[2025-06-25 14:39:07,979][main_train.py][line:64][INFO] Epoch:[227/300]  task_loss=0.66383  qcfs_loss=0.000140  acc=81.822
+[2025-06-25 14:39:09,102][main_train.py][line:73][INFO] Epoch:[227/300]  Test acc=73.220
+
+[2025-06-25 14:39:24,402][main_train.py][line:64][INFO] Epoch:[228/300]  task_loss=0.65732  qcfs_loss=0.000135  acc=81.908
+[2025-06-25 14:39:25,579][main_train.py][line:73][INFO] Epoch:[228/300]  Test acc=72.840
+
+[2025-06-25 14:39:40,835][main_train.py][line:64][INFO] Epoch:[229/300]  task_loss=0.65912  qcfs_loss=0.000139  acc=81.906
+[2025-06-25 14:39:41,790][main_train.py][line:73][INFO] Epoch:[229/300]  Test acc=73.440
+
+[2025-06-25 14:39:56,909][main_train.py][line:64][INFO] Epoch:[230/300]  task_loss=0.64570  qcfs_loss=0.000129  acc=82.474
+[2025-06-25 14:39:57,832][main_train.py][line:73][INFO] Epoch:[230/300]  Test acc=73.190
+
+[2025-06-25 14:40:13,008][main_train.py][line:64][INFO] Epoch:[231/300]  task_loss=0.63097  qcfs_loss=0.000130  acc=82.704
+[2025-06-25 14:40:14,060][main_train.py][line:73][INFO] Epoch:[231/300]  Test acc=74.150
+
+[2025-06-25 14:40:29,588][main_train.py][line:64][INFO] Epoch:[232/300]  task_loss=0.63538  qcfs_loss=0.000131  acc=82.642
+[2025-06-25 14:40:30,537][main_train.py][line:73][INFO] Epoch:[232/300]  Test acc=73.890
+
+[2025-06-25 14:40:45,649][main_train.py][line:64][INFO] Epoch:[233/300]  task_loss=0.62344  qcfs_loss=0.000122  acc=83.004
+[2025-06-25 14:40:46,615][main_train.py][line:73][INFO] Epoch:[233/300]  Test acc=74.620
+
+[2025-06-25 14:41:03,891][main_train.py][line:64][INFO] Epoch:[234/300]  task_loss=0.60551  qcfs_loss=0.000117  acc=83.472
+[2025-06-25 14:41:04,834][main_train.py][line:73][INFO] Epoch:[234/300]  Test acc=74.190
+
+[2025-06-25 14:41:19,916][main_train.py][line:64][INFO] Epoch:[235/300]  task_loss=0.61393  qcfs_loss=0.000107  acc=83.080
+[2025-06-25 14:41:21,155][main_train.py][line:73][INFO] Epoch:[235/300]  Test acc=74.420
+
+[2025-06-25 14:41:36,360][main_train.py][line:64][INFO] Epoch:[236/300]  task_loss=0.59792  qcfs_loss=0.000118  acc=83.654
+[2025-06-25 14:41:37,505][main_train.py][line:73][INFO] Epoch:[236/300]  Test acc=73.860
+
+[2025-06-25 14:41:52,789][main_train.py][line:64][INFO] Epoch:[237/300]  task_loss=0.59120  qcfs_loss=0.000123  acc=83.780
+[2025-06-25 14:41:53,928][main_train.py][line:73][INFO] Epoch:[237/300]  Test acc=74.120
+
+[2025-06-25 14:42:09,196][main_train.py][line:64][INFO] Epoch:[238/300]  task_loss=0.59575  qcfs_loss=0.000114  acc=83.766
+[2025-06-25 14:42:10,562][main_train.py][line:73][INFO] Epoch:[238/300]  Test acc=74.550
+
+[2025-06-25 14:42:25,807][main_train.py][line:64][INFO] Epoch:[239/300]  task_loss=0.58614  qcfs_loss=0.000115  acc=84.114
+[2025-06-25 14:42:26,953][main_train.py][line:73][INFO] Epoch:[239/300]  Test acc=74.180
+
+[2025-06-25 14:42:42,221][main_train.py][line:64][INFO] Epoch:[240/300]  task_loss=0.58208  qcfs_loss=0.000110  acc=84.220
+[2025-06-25 14:42:43,366][main_train.py][line:73][INFO] Epoch:[240/300]  Test acc=74.720
+
+[2025-06-25 14:42:59,045][main_train.py][line:64][INFO] Epoch:[241/300]  task_loss=0.57915  qcfs_loss=0.000107  acc=84.122
+[2025-06-25 14:43:00,122][main_train.py][line:73][INFO] Epoch:[241/300]  Test acc=75.410
+
+[2025-06-25 14:43:15,625][main_train.py][line:64][INFO] Epoch:[242/300]  task_loss=0.56218  qcfs_loss=0.000105  acc=84.598
+[2025-06-25 14:43:16,814][main_train.py][line:73][INFO] Epoch:[242/300]  Test acc=74.750
+
+[2025-06-25 14:43:31,959][main_train.py][line:64][INFO] Epoch:[243/300]  task_loss=0.55555  qcfs_loss=0.000102  acc=84.922
+[2025-06-25 14:43:33,097][main_train.py][line:73][INFO] Epoch:[243/300]  Test acc=74.420
+
+[2025-06-25 14:43:48,342][main_train.py][line:64][INFO] Epoch:[244/300]  task_loss=0.55670  qcfs_loss=0.000106  acc=84.798
+[2025-06-25 14:43:49,511][main_train.py][line:73][INFO] Epoch:[244/300]  Test acc=74.780
+
+[2025-06-25 14:44:04,712][main_train.py][line:64][INFO] Epoch:[245/300]  task_loss=0.53597  qcfs_loss=0.000095  acc=85.344
+[2025-06-25 14:44:05,831][main_train.py][line:73][INFO] Epoch:[245/300]  Test acc=74.470
+
+[2025-06-25 14:44:21,051][main_train.py][line:64][INFO] Epoch:[246/300]  task_loss=0.53943  qcfs_loss=0.000097  acc=85.498
+[2025-06-25 14:44:21,979][main_train.py][line:73][INFO] Epoch:[246/300]  Test acc=75.030
+
+[2025-06-25 14:44:37,080][main_train.py][line:64][INFO] Epoch:[247/300]  task_loss=0.52633  qcfs_loss=0.000099  acc=85.614
+[2025-06-25 14:44:38,038][main_train.py][line:73][INFO] Epoch:[247/300]  Test acc=74.930
+
+[2025-06-25 14:44:53,157][main_train.py][line:64][INFO] Epoch:[248/300]  task_loss=0.53237  qcfs_loss=0.000097  acc=85.432
+[2025-06-25 14:44:54,072][main_train.py][line:73][INFO] Epoch:[248/300]  Test acc=74.950
+
+[2025-06-25 14:45:09,181][main_train.py][line:64][INFO] Epoch:[249/300]  task_loss=0.53281  qcfs_loss=0.000096  acc=85.572
+[2025-06-25 14:45:10,136][main_train.py][line:73][INFO] Epoch:[249/300]  Test acc=75.170
+
+[2025-06-25 14:45:25,290][main_train.py][line:64][INFO] Epoch:[250/300]  task_loss=0.50725  qcfs_loss=0.000100  acc=86.310
+[2025-06-25 14:45:26,218][main_train.py][line:73][INFO] Epoch:[250/300]  Test acc=75.270
+
+[2025-06-25 14:45:41,346][main_train.py][line:64][INFO] Epoch:[251/300]  task_loss=0.50047  qcfs_loss=0.000099  acc=86.554
+[2025-06-25 14:45:42,278][main_train.py][line:73][INFO] Epoch:[251/300]  Test acc=74.710
+
+[2025-06-25 14:45:57,370][main_train.py][line:64][INFO] Epoch:[252/300]  task_loss=0.50481  qcfs_loss=0.000096  acc=86.360
+[2025-06-25 14:45:58,285][main_train.py][line:73][INFO] Epoch:[252/300]  Test acc=75.310
+
+[2025-06-25 14:46:13,416][main_train.py][line:64][INFO] Epoch:[253/300]  task_loss=0.50324  qcfs_loss=0.000092  acc=86.504
+[2025-06-25 14:46:14,402][main_train.py][line:73][INFO] Epoch:[253/300]  Test acc=75.600
+
+[2025-06-25 14:46:29,950][main_train.py][line:64][INFO] Epoch:[254/300]  task_loss=0.48951  qcfs_loss=0.000089  acc=86.564
+[2025-06-25 14:46:30,889][main_train.py][line:73][INFO] Epoch:[254/300]  Test acc=75.920
+
+[2025-06-25 14:46:46,436][main_train.py][line:64][INFO] Epoch:[255/300]  task_loss=0.48303  qcfs_loss=0.000089  acc=87.048
+[2025-06-25 14:46:47,406][main_train.py][line:73][INFO] Epoch:[255/300]  Test acc=75.770
+
+[2025-06-25 14:47:02,540][main_train.py][line:64][INFO] Epoch:[256/300]  task_loss=0.48462  qcfs_loss=0.000094  acc=86.730
+[2025-06-25 14:47:03,586][main_train.py][line:73][INFO] Epoch:[256/300]  Test acc=75.360
+
+[2025-06-25 14:47:18,704][main_train.py][line:64][INFO] Epoch:[257/300]  task_loss=0.47851  qcfs_loss=0.000087  acc=86.978
+[2025-06-25 14:47:19,728][main_train.py][line:73][INFO] Epoch:[257/300]  Test acc=75.470
+
+[2025-06-25 14:47:34,877][main_train.py][line:64][INFO] Epoch:[258/300]  task_loss=0.47636  qcfs_loss=0.000086  acc=87.162
+[2025-06-25 14:47:35,830][main_train.py][line:73][INFO] Epoch:[258/300]  Test acc=75.520
+
+[2025-06-25 14:47:51,011][main_train.py][line:64][INFO] Epoch:[259/300]  task_loss=0.46345  qcfs_loss=0.000085  acc=87.448
+[2025-06-25 14:47:51,933][main_train.py][line:73][INFO] Epoch:[259/300]  Test acc=75.780
+
+[2025-06-25 14:48:07,096][main_train.py][line:64][INFO] Epoch:[260/300]  task_loss=0.46456  qcfs_loss=0.000085  acc=87.390
+[2025-06-25 14:48:08,026][main_train.py][line:73][INFO] Epoch:[260/300]  Test acc=76.060
+
+[2025-06-25 14:48:23,555][main_train.py][line:64][INFO] Epoch:[261/300]  task_loss=0.46337  qcfs_loss=0.000091  acc=87.468
+[2025-06-25 14:48:24,507][main_train.py][line:73][INFO] Epoch:[261/300]  Test acc=75.950
+
+[2025-06-25 14:48:39,646][main_train.py][line:64][INFO] Epoch:[262/300]  task_loss=0.45108  qcfs_loss=0.000083  acc=87.828
+[2025-06-25 14:48:40,587][main_train.py][line:73][INFO] Epoch:[262/300]  Test acc=75.590
+
+[2025-06-25 14:48:55,701][main_train.py][line:64][INFO] Epoch:[263/300]  task_loss=0.44211  qcfs_loss=0.000084  acc=88.036
+[2025-06-25 14:48:56,630][main_train.py][line:73][INFO] Epoch:[263/300]  Test acc=75.990
+
+[2025-06-25 14:49:11,732][main_train.py][line:64][INFO] Epoch:[264/300]  task_loss=0.44361  qcfs_loss=0.000081  acc=87.968
+[2025-06-25 14:49:12,633][main_train.py][line:73][INFO] Epoch:[264/300]  Test acc=76.270
+
+[2025-06-25 14:49:28,128][main_train.py][line:64][INFO] Epoch:[265/300]  task_loss=0.44172  qcfs_loss=0.000078  acc=88.152
+[2025-06-25 14:49:29,058][main_train.py][line:73][INFO] Epoch:[265/300]  Test acc=76.040
+
+[2025-06-25 14:49:44,141][main_train.py][line:64][INFO] Epoch:[266/300]  task_loss=0.44501  qcfs_loss=0.000081  acc=88.024
+[2025-06-25 14:49:45,065][main_train.py][line:73][INFO] Epoch:[266/300]  Test acc=75.850
+
+[2025-06-25 14:50:00,166][main_train.py][line:64][INFO] Epoch:[267/300]  task_loss=0.42122  qcfs_loss=0.000078  acc=88.686
+[2025-06-25 14:50:01,114][main_train.py][line:73][INFO] Epoch:[267/300]  Test acc=75.980
+
+[2025-06-25 14:50:16,273][main_train.py][line:64][INFO] Epoch:[268/300]  task_loss=0.42475  qcfs_loss=0.000078  acc=88.524
+[2025-06-25 14:50:17,227][main_train.py][line:73][INFO] Epoch:[268/300]  Test acc=76.310
+
+[2025-06-25 14:50:32,828][main_train.py][line:64][INFO] Epoch:[269/300]  task_loss=0.42660  qcfs_loss=0.000081  acc=88.552
+[2025-06-25 14:50:33,789][main_train.py][line:73][INFO] Epoch:[269/300]  Test acc=76.040
+
+[2025-06-25 14:50:48,967][main_train.py][line:64][INFO] Epoch:[270/300]  task_loss=0.42326  qcfs_loss=0.000075  acc=88.524
+[2025-06-25 14:50:49,929][main_train.py][line:73][INFO] Epoch:[270/300]  Test acc=76.210
+
+[2025-06-25 14:51:05,075][main_train.py][line:64][INFO] Epoch:[271/300]  task_loss=0.40908  qcfs_loss=0.000079  acc=88.988
+[2025-06-25 14:51:06,049][main_train.py][line:73][INFO] Epoch:[271/300]  Test acc=76.250
+
+[2025-06-25 14:51:21,224][main_train.py][line:64][INFO] Epoch:[272/300]  task_loss=0.41451  qcfs_loss=0.000076  acc=88.880
+[2025-06-25 14:51:22,166][main_train.py][line:73][INFO] Epoch:[272/300]  Test acc=76.330
+
+[2025-06-25 14:51:39,313][main_train.py][line:64][INFO] Epoch:[273/300]  task_loss=0.41540  qcfs_loss=0.000076  acc=88.796
+[2025-06-25 14:51:40,233][main_train.py][line:73][INFO] Epoch:[273/300]  Test acc=76.550
+
+[2025-06-25 14:51:55,745][main_train.py][line:64][INFO] Epoch:[274/300]  task_loss=0.41001  qcfs_loss=0.000076  acc=88.892
+[2025-06-25 14:51:56,703][main_train.py][line:73][INFO] Epoch:[274/300]  Test acc=76.180
+
+[2025-06-25 14:52:11,810][main_train.py][line:64][INFO] Epoch:[275/300]  task_loss=0.40312  qcfs_loss=0.000075  acc=89.000
+[2025-06-25 14:52:12,785][main_train.py][line:73][INFO] Epoch:[275/300]  Test acc=76.570
+
+[2025-06-25 14:52:28,286][main_train.py][line:64][INFO] Epoch:[276/300]  task_loss=0.40853  qcfs_loss=0.000077  acc=88.998
+[2025-06-25 14:52:29,189][main_train.py][line:73][INFO] Epoch:[276/300]  Test acc=76.270
+
+[2025-06-25 14:52:44,259][main_train.py][line:64][INFO] Epoch:[277/300]  task_loss=0.39195  qcfs_loss=0.000074  acc=89.352
+[2025-06-25 14:52:45,152][main_train.py][line:73][INFO] Epoch:[277/300]  Test acc=76.730
+
+[2025-06-25 14:53:00,602][main_train.py][line:64][INFO] Epoch:[278/300]  task_loss=0.40551  qcfs_loss=0.000075  acc=89.218
+[2025-06-25 14:53:01,517][main_train.py][line:73][INFO] Epoch:[278/300]  Test acc=76.540
+
+[2025-06-25 14:53:16,615][main_train.py][line:64][INFO] Epoch:[279/300]  task_loss=0.39957  qcfs_loss=0.000072  acc=89.290
+[2025-06-25 14:53:17,521][main_train.py][line:73][INFO] Epoch:[279/300]  Test acc=76.920
+
+[2025-06-25 14:53:32,980][main_train.py][line:64][INFO] Epoch:[280/300]  task_loss=0.39835  qcfs_loss=0.000071  acc=89.488
+[2025-06-25 14:53:33,971][main_train.py][line:73][INFO] Epoch:[280/300]  Test acc=76.580
+
+[2025-06-25 14:53:49,072][main_train.py][line:64][INFO] Epoch:[281/300]  task_loss=0.39455  qcfs_loss=0.000070  acc=89.378
+[2025-06-25 14:53:49,988][main_train.py][line:73][INFO] Epoch:[281/300]  Test acc=76.640
+
+[2025-06-25 14:54:05,086][main_train.py][line:64][INFO] Epoch:[282/300]  task_loss=0.38644  qcfs_loss=0.000072  acc=89.710
+[2025-06-25 14:54:06,006][main_train.py][line:73][INFO] Epoch:[282/300]  Test acc=76.670
+
+[2025-06-25 14:54:21,101][main_train.py][line:64][INFO] Epoch:[283/300]  task_loss=0.38575  qcfs_loss=0.000072  acc=89.676
+[2025-06-25 14:54:22,035][main_train.py][line:73][INFO] Epoch:[283/300]  Test acc=76.660
+
+[2025-06-25 14:54:37,095][main_train.py][line:64][INFO] Epoch:[284/300]  task_loss=0.38184  qcfs_loss=0.000072  acc=89.760
+[2025-06-25 14:54:38,047][main_train.py][line:73][INFO] Epoch:[284/300]  Test acc=76.960
+
+[2025-06-25 14:54:53,539][main_train.py][line:64][INFO] Epoch:[285/300]  task_loss=0.37691  qcfs_loss=0.000071  acc=89.840
+[2025-06-25 14:54:54,475][main_train.py][line:73][INFO] Epoch:[285/300]  Test acc=76.910
+
+[2025-06-25 14:55:09,579][main_train.py][line:64][INFO] Epoch:[286/300]  task_loss=0.38711  qcfs_loss=0.000072  acc=89.714
+[2025-06-25 14:55:10,538][main_train.py][line:73][INFO] Epoch:[286/300]  Test acc=77.180
+
+[2025-06-25 14:55:26,064][main_train.py][line:64][INFO] Epoch:[287/300]  task_loss=0.39015  qcfs_loss=0.000072  acc=89.528
+[2025-06-25 14:55:27,025][main_train.py][line:73][INFO] Epoch:[287/300]  Test acc=77.100
+
+[2025-06-25 14:55:42,186][main_train.py][line:64][INFO] Epoch:[288/300]  task_loss=0.38116  qcfs_loss=0.000070  acc=89.748
+[2025-06-25 14:55:43,121][main_train.py][line:73][INFO] Epoch:[288/300]  Test acc=77.100
+
+[2025-06-25 14:55:58,236][main_train.py][line:64][INFO] Epoch:[289/300]  task_loss=0.38263  qcfs_loss=0.000071  acc=89.744
+[2025-06-25 14:55:59,180][main_train.py][line:73][INFO] Epoch:[289/300]  Test acc=77.180
+
+[2025-06-25 14:56:14,277][main_train.py][line:64][INFO] Epoch:[290/300]  task_loss=0.37899  qcfs_loss=0.000070  acc=89.916
+[2025-06-25 14:56:15,187][main_train.py][line:73][INFO] Epoch:[290/300]  Test acc=76.970
+
+[2025-06-25 14:56:30,257][main_train.py][line:64][INFO] Epoch:[291/300]  task_loss=0.37721  qcfs_loss=0.000071  acc=89.746
+[2025-06-25 14:56:31,222][main_train.py][line:73][INFO] Epoch:[291/300]  Test acc=77.300
+
+[2025-06-25 14:56:46,731][main_train.py][line:64][INFO] Epoch:[292/300]  task_loss=0.37585  qcfs_loss=0.000070  acc=90.044
+[2025-06-25 14:56:47,698][main_train.py][line:73][INFO] Epoch:[292/300]  Test acc=76.860
+
+[2025-06-25 14:57:02,758][main_train.py][line:64][INFO] Epoch:[293/300]  task_loss=0.38734  qcfs_loss=0.000070  acc=89.690
+[2025-06-25 14:57:03,810][main_train.py][line:73][INFO] Epoch:[293/300]  Test acc=77.190
+
+[2025-06-25 14:57:18,925][main_train.py][line:64][INFO] Epoch:[294/300]  task_loss=0.38238  qcfs_loss=0.000070  acc=89.824
+[2025-06-25 14:57:19,885][main_train.py][line:73][INFO] Epoch:[294/300]  Test acc=76.990
+
+[2025-06-25 14:57:35,019][main_train.py][line:64][INFO] Epoch:[295/300]  task_loss=0.38212  qcfs_loss=0.000070  acc=89.676
+[2025-06-25 14:57:35,951][main_train.py][line:73][INFO] Epoch:[295/300]  Test acc=76.890
+
+[2025-06-25 14:57:51,062][main_train.py][line:64][INFO] Epoch:[296/300]  task_loss=0.37150  qcfs_loss=0.000070  acc=89.952
+[2025-06-25 14:57:52,009][main_train.py][line:73][INFO] Epoch:[296/300]  Test acc=76.830
+
+[2025-06-25 14:58:07,110][main_train.py][line:64][INFO] Epoch:[297/300]  task_loss=0.37569  qcfs_loss=0.000070  acc=89.872
+[2025-06-25 14:58:08,024][main_train.py][line:73][INFO] Epoch:[297/300]  Test acc=76.870
+
+[2025-06-25 14:58:23,135][main_train.py][line:64][INFO] Epoch:[298/300]  task_loss=0.37902  qcfs_loss=0.000070  acc=89.712
+[2025-06-25 14:58:24,066][main_train.py][line:73][INFO] Epoch:[298/300]  Test acc=76.950
+
+[2025-06-25 14:58:39,182][main_train.py][line:64][INFO] Epoch:[299/300]  task_loss=0.37531  qcfs_loss=0.000070  acc=89.830
+[2025-06-25 14:58:40,126][main_train.py][line:73][INFO] Epoch:[299/300]  Test acc=76.780
+
+[2025-06-25 14:58:40,126][main_train.py][line:82][INFO] Best Test acc=77.300

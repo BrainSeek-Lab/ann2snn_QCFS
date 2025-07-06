@@ -1,0 +1,13 @@
+[2025-06-26 17:54:39,290][main_train.py][line:65][INFO] start training!
+[2025-06-26 17:55:06,679][main_train.py][line:69][INFO] Epoch:[0/300]	 loss=748.36609	 acc=2.324
+[2025-06-26 17:55:08,595][main_train.py][line:72][INFO] Epoch:[0/300]	 Test acc=4.840
+
+[2025-06-26 17:55:35,774][main_train.py][line:69][INFO] Epoch:[1/300]	 loss=711.92885	 acc=4.908
+[2025-06-26 17:55:37,687][main_train.py][line:72][INFO] Epoch:[1/300]	 Test acc=6.160
+
+[2025-06-26 17:56:05,380][main_train.py][line:69][INFO] Epoch:[2/300]	 loss=691.59049	 acc=6.260
+[2025-06-26 17:56:07,309][main_train.py][line:72][INFO] Epoch:[2/300]	 Test acc=9.240
+
+[2025-06-26 17:56:34,731][main_train.py][line:69][INFO] Epoch:[3/300]	 loss=672.44623	 acc=7.760
+[2025-06-26 17:56:36,628][main_train.py][line:72][INFO] Epoch:[3/300]	 Test acc=11.410
+
